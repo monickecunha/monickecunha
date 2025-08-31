@@ -2,12 +2,15 @@
 
 # 👋🏻 Oie! Eu me chamo Monicke
 
-<p text-align="justify">
+<p text-align="center">
 
-Bem-vindo(a) ao meu perfil no GitHub! Estou cursando Análise e Desenvolvimento de Sistemas pela UNISINOS. Sou apaixonada por desenvolvimento de software e sempre em busca de novos desafios e aprendizados. Atualmente buscando me desenvolver como FullStack (Foco maior em Front-end).
+Bem-vindo(a) ao meu perfil no GitHub!  
+Estou cursando **Análise e Desenvolvimento de Sistemas (UNISINOS)** e sou apaixonada por desenvolvimento de software.  
+Sempre em busca de novos desafios e aprendizados, atualmente estou me desenvolvendo como **Fullstack Developer**, com foco maior em **Front-end**. 🚀
 
 </p>
-<hr>
+
+---
 
 </div>
 
@@ -21,6 +24,8 @@ Bem-vindo(a) ao meu perfil no GitHub! Estou cursando Análise e Desenvolvimento 
 
 <div>
 
+---
+
 <div align="center">
 
   <a href="https://github.com/monickecunha">
@@ -32,16 +37,33 @@ Bem-vindo(a) ao meu perfil no GitHub! Estou cursando Análise e Desenvolvimento 
 
 </div>
 
-<hr>
+---
 
 ### 🚀 Principais linguagens e tecnologias
 
 [![Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,typescript,java)](https://skillicons.dev)
 
-<hr>
+---
+
+### 🎯 Objetivo
+
+Atuar como **Fullstack Developer**, com foco em **React, Node.js e TypeScript**,  
+criando soluções que unam **boa experiência de usuário** e **eficiência técnica**.  
+
+---
 
 ### 📚 Estudando no momento
 
-Análise e Desenvolvimento de Sistemas (UNISINOS) - Semestre 3/6 <br>
-Bootcamp Akad - Fullstack Developer (DIO) <br>
-Inglês (IFRS)
+🎓 **Análise e Desenvolvimento de Sistemas (UNISINOS)** – Semestre 3/6  
+💻 **Bootcamp Akad - Fullstack Developer (DIO)**  
+🌎 **Inglês (IFRS)**
+
+---
+
+<div align="center">
+
+✨ _"Transformando café em código ☕💻"_  
+
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Coding gif">
+
+</div>
