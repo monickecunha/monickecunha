@@ -64,6 +64,6 @@ criando soluções que unam **boa experiência de usuário** e **eficiência té
 
 ✨ _"Transformando café em código ☕💻"_  
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Coding gif">
+<img src="img.jpeg" width="300" alt="Ilustração de uma jovem sorrindo em uma cafeteria, segurando uma xícara e com um notebook na mesa.">
 
 </div>
