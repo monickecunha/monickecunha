@@ -1,6 +1,6 @@
 # Olá, sou a Monicke! 👋
 
-Sou desenvolvedora FullStack com foco em backend e atualmente estou no quarto semestre de Análise e Desenvolvimento de Sistemas pela Unisinos. 
+Sou desenvolvedora FullStack e atualmente estou no quarto semestre de Análise e Desenvolvimento de Sistemas pela Unisinos. 
 
 ## 💻 Minha Stack
 
