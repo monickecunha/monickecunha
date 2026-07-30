@@ -1,6 +1,6 @@
 # Olá, sou a Monicke! 👋
 
-Sou desenvolvedora FullStack e atualmente estou no quarto semestre de Análise e Desenvolvimento de Sistemas pela Unisinos. 
+Sou desenvolvedora Full-Stack e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Unisinos, além de participar da Residência Full-Stack 5.0 promovida pelo Instituto Eldorado em parceria com a Petrobras.
 
 ## 💻 Minha Stack
 
