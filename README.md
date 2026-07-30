@@ -14,12 +14,11 @@ Sou desenvolvedora Full-Stack e atualmente estou cursando Análise e Desenvolvim
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=monickecunha&show_icons=true&theme=transparent&hide_border=true" alt="Estatísticas da Monicke" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monickecunha&layout=compact&theme=transparent&hide_border=true" alt="Linguagens mais usadas pela Monicke" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monickecunha&theme=transparent" height="160" alt="Estatísticas da Monicke" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=monickecunha&theme=transparent" height="160" alt="Linguagens mais usadas pela Monicke" />
+</div>
 
 ---
 
