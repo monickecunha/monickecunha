@@ -1,18 +1,21 @@
-# Olá, sou a Monicke! 👋
+# Hi, I'm Monicke! 👋
 
-Sou desenvolvedora Full-Stack e atualmente estou cursando Análise e Desenvolvimento de Sistemas pela Unisinos, além de participar da Residência Full-Stack 5.0 promovida pelo Instituto Eldorado em parceria com a Petrobras.
+I'm a Full-Stack Developer with a strong focus on Backend development, currently studying Systems Analysis and Development at Unisinos. I'm also part of the Full-Stack Residency 5.0, promoted by Instituto Eldorado in partnership with Petrobras.
 
-## 💻 Minha Stack
+I'm particularly interested in Backend development, software architecture, APIs, databases, and problem-solving. I enjoy understanding how things work behind the scenes and building solutions that are reliable, organized, and practical.
+
+Outside of technology, I'm passionate about music, movies, and TV shows. Music is a big part of my life, especially rock and indie rock. 🎵
+
+## 💻 My Stack 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=monickecunha&theme=transparent" height="160" alt="Estatísticas da Monicke" />
@@ -22,6 +25,6 @@ Sou desenvolvedora Full-Stack e atualmente estou cursando Análise e Desenvolvim
 
 ---
 
-## 📫 Como entrar em contato
+## 📫 Let's Connect 
 
-* **LinkedIn:** [Meu Perfil no LinkedIn](https://www.linkedin.com/in/monicke-cunha)
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/monicke-cunha)
